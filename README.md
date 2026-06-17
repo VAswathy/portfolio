@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Aswathy V**, a Java Backend Developer with 3+ years of experience in Spring Boot, REST APIs, microservices, and fintech systems — currently expanding into frontend development and AI-assisted workflows.
 
-🔗 **Live site:** [vaswathy.github.io](https://vaswathy.github.io)
+🔗 **Live site:** [vaswathy.github.io/portfolio](https://vaswathy.github.io/portfolio/)
 
 ---
 
